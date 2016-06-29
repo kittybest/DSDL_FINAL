@@ -1,0 +1,3 @@
+Server.java: the server that the app uses
+Assistnet: Client, build the gradle and can use it, different computer has different local ip, before using it, you should change the ip in bg_thread.java.
+these two should execute at the same time.
